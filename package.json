@@ -1,0 +1,14 @@
+{
+  "name": "getConstructor",
+  "version": "1.0.0",
+  "main": "js/src/getConstructor",
+  "dependencies": {
+    "PureObject": "aleclarson/PureObject#1.0.0",
+    "Nan": "aleclarson/Nan#1.0.0"
+  },
+  "lotus": {
+    "plugins": [
+      "lotus-coffee"
+    ]
+  }
+}
